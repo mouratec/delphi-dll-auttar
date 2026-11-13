@@ -1,0 +1,17 @@
+# Logs e dados locais
+CTFDebug.log
+/manual
+/lib
+/backup
+
+# Binários e arquivos temporários de build / IDE (Lazarus/Delphi)
+*.exe
+*.dll
+*.o
+*.ppu
+*.or
+*.a
+*.compiled
+*.lps
+*.dcu
+*.~*
